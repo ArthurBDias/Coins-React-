@@ -1,0 +1,124 @@
+{
+  "projects": [
+    {
+      "name": "Arthur",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Planning"
+      },
+      "costs": 20,
+      "services": [
+        {
+          "name": [
+            "teste"
+          ],
+          "cost": [
+            "15"
+          ],
+          "description": [
+            "Test"
+          ],
+          "id": "3b679749-e6e2-48be-8656-b9159bb41e9b"
+        },
+        {
+          "name": "tes5",
+          "cost": "1",
+          "description": "adafsgggd",
+          "id": "e891aed6-c44f-48b4-a969-e90b56623535"
+        },
+        {
+          "name": "Arthur",
+          "cost": "5",
+          "description": "Test12",
+          "id": "02dfef3e-d9f8-45f0-80cb-17d238071d4b"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "Arthur",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "Development"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "Arthur",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Test",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Planning"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "Arthur",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 16
+    },
+    {
+      "budget": "50000",
+      "name": "Test",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 17
+    },
+    {
+      "name": "Arthur",
+      "budget": "50000",
+      "category": {
+        "id": "2",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 18
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Development"
+    },
+    {
+      "id": 2,
+      "name": "Design"
+    },
+    {
+      "id": 3,
+      "name": "Planning"
+    },
+    {
+      "id": 4,
+      "name": "Infrastructure"
+    }
+  ]
+}

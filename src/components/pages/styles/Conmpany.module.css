@@ -1,0 +1,13 @@
+.align_childrens{
+    width: 45%;
+    margin: auto;
+    position: relative;
+}
+
+img.align_childrens{
+    width: 30%;
+}
+
+.button{
+    margin: 2em auto;
+}

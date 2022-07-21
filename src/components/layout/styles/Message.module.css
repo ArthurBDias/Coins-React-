@@ -1,0 +1,41 @@
+.background_message{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.message{
+    padding: 5em 5em;
+    border: 1px solid #000;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.message p{
+    margin-bottom: 1.2em;
+}
+
+.message button{
+    padding: 1.2em 0;
+    width: 100%;
+    outline: none;
+    cursor: pointer;
+}
+
+.sucess, .sucess button{
+    color: #155;
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+}
+
+.error, .error button{
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}

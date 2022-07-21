@@ -1,0 +1,26 @@
+.project_container{
+    width: 100%;
+}
+
+.actions{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 35%;
+    position: relative;
+}
+
+.actions span{
+    position: absolute;
+    right: 0.5em;
+    cursor: pointer;
+}
+
+.actions_children{
+    height: 2.5em;
+    width: 45%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    border: none
+}
+
+

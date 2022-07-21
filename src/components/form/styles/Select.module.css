@@ -1,0 +1,16 @@
+.select_container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.select_container label{
+    margin-bottom: 0.6em;
+    font-weight: bold;
+}
+
+.select_container select{
+    padding: 0.75em;
+    border-radius: 0;
+    border: none;
+}
